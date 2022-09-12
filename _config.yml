@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fuqiang SUN"
+title                    : "WU Si"
 title_separator          : "-"
-name                     : &name "Fuqiang (Frank) SUN"
-description              : &description "Ph.D. Candidate, Department of Mechanical Engineering, The University of Hong Kong"
+name                     : &name "WU Si"
+description              : &description "Ph.D. Student, Department of Civil Engineering, HKUST"
 url                      : https://fuqiangsun.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fuqiangsun.github.io"
+repository               : "wu-si.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fuqiang (Frank) SUN"
-  avatar           : "fqsun.jpg"
-  bio              : "Ph.D. Candidate, Department of Mechanical Engineering, The University of Hong Kong"
+  name             : "WU Si"
+  avatar           : "wooooos.jpg"
+  bio              : "Ph.D. Student, Department of Civil Engineering, HKUST"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "fqsun@connect.hku.hk"
+  email            : "si.wu@connect.hkust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

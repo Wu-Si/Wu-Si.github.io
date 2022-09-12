@@ -20,5 +20,6 @@ author_profile: true
 1. **Wu, S.**; Wu, Y. D.; Tian, J.; Ouyang, H. 2022. On the cavitation-induced collapse erosion of a turbofan fuel pump. *Engineering Applications of Computational Fluid Mechanics*. 16(1): 1048-1063.
 
 ## Conference Papers
+
 1. Yang, Z. Y.; Ming, L. L.; **Wu, S.**; Wu, Y. D.; Tian, J.; Ouyang, H. 2022. On the Mode Characteristics of Rotating Instability With Different Tip Clearances. *ASME 2022 Turbomachinery Technical Conference & Exposition*.
 

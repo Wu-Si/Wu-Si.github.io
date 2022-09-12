@@ -49,8 +49,4 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-This is a personal webpage that records Fuqiang's academic growth.
-
-Hope to be a better person than that in yesterday.
-
-大丈夫处其厚，不居其薄；处其实，不居其华。故去彼取此。
+This is a personal webpage that records Wu-Si's academic growth.

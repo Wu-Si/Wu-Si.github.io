@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D candidate in Mechanical Engineering, The University of Hong Kong (HKU)
-* M.S. in Solid Mechanics, Chinese Academy of Sciences (CAS), 2020
-* B.E. in Engineering Mechanics, Harbin Institute of Technology (HIT), 2017
+* Ph.D student in Civil Engineering, Hong Kong University of Science and Technology (HKUST) 2022-
+* M.S. in Power Engineering and Engineering Thermophysics, Shanghai Jiao Tong University (SJTU), 2019-2022
+* B.E. in Process Equipment and Control Engineering, Dalian University of Technology (DUT), 2015-2019
 
-Selected Awards
+<!-- Selected Awards
 ======
 * National Scholarship (top 1%), by Ministry of Education, PRC, 2019
 * Outstanding Graduate (top 5%), by HIT, 2017
 
-<!-- Work experience
+Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University

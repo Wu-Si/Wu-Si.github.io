@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "WU Si"
 title_separator          : "-"
 name                     : &name "WU Si"
-description              : &description "Ph.D. Student, Department of Civil Engineering, HKUST"
+description              : &description "Ph.D. Student, Department of Civil and Environmental Engineering, HKUST"
 url                      : https://wu-si.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wu-si.github.io"

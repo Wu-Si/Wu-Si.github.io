@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D student in Civil Engineering, Hong Kong University of Science and Technology (HKUST) 2022-present
+* Ph.D student in Civil Engineering, The Hong Kong University of Science and Technology (HKUST) 2022-present
 * M.S. in Power Engineering and Engineering Thermophysics, Shanghai Jiao Tong University (SJTU), 2019-2022
 * B.E. in Process Equipment and Control Engineering, Dalian University of Technology (DUT), 2015-2019
 

@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 CV
 ======
 [Download English CV](http://Wu-Si.github.io/files/WS_CV_HKUST.pdf

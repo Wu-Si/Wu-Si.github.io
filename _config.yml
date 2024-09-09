@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "si.wu@connect.hkust.hk"
-  researchgate     : "https://www.researchgate.net/profile/Si-Wu-13"
+  researchgate     : #"https://www.researchgate.net/profile/Si-Wu-13"
   uri              :
   bitbucket        :
   codepen          :

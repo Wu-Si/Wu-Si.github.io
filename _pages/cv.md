@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download English CV](http://Wu-Si.github.io/files/WS_CV_HKUST.pdf
+[Download English CV](http://Wu-Si.github.io/files/WS_CV.pdf
 )
 
 Education

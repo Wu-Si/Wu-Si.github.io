@@ -50,6 +50,6 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 * A PhD student currently working on HVAC system efficiency enhancement under the supervision of [Prof. WANG Zhe](https://walterzwang.github.io/) and [Prof. CHEN Guanghao](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=guanghao-chen-ceghchen).
 
-* Before joining HKUST, I completed a master's degree at Shanghai Jiao Tong University under the supervision of [Dr. TIAN Jie](https://me.sjtu.edu.cn/teacher_directory3/tianjie.html), [Prof. WU Yadong](https://me.sjtu.edu.cn/teacher_directory1/wuyadong.html) and [Prof. OUYANG Hua](https://me.sjtu.edu.cn/teacher_directory1/ouyanghua.html).
+* Before joining HKUST, I completed a master's degree at Shanghai Jiao Tong University under the supervision of [Dr. TIAN Jie](https://me.sjtu.edu.cn/teacher_directory3/tianjie.html), [Prof. WU Yadong](https://me.sjtu.edu.cn/teacher_directory1/wuyadong.html) and [Prof. OUYANG Hua](https://me.sjtu.edu.cn/teacher_directory2/ouyanghua.html).
 
 

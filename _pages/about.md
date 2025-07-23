@@ -48,8 +48,8 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
-* A PhD student currently working on HVAC system efficiency enhancement under the supervision of [Prof. WANG Zhe](https://walterzwang.github.io/) and [Prof. CHEN Guanghao](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=guanghao-chen-ceghchen).
-
-* Before joining HKUST, I completed a master's degree at Shanghai Jiao Tong University under the supervision of [Dr. TIAN Jie](https://me.sjtu.edu.cn/teacher_directory3/tianjie.html), [Prof. WU Yadong](https://me.sjtu.edu.cn/teacher_directory1/wuyadong.html) and [Prof. OUYANG Hua](https://me.sjtu.edu.cn/teacher_directory2/ouyanghua.html).
+* I am currently a Postdoctoral Fellow in the Department of Civil and Environmental Engineering at The Hong Kong University of Science and Technology (HKUST), working under the supervision of [Prof. WANG Zhe](https://walterzwang.github.io/).
+* I completed my Ph.D. degree in 2025 from the Department of Civil and Environmental Engineering at The Hong Kong University of Science and Technology (HKUST), where my research focused on enhancing HVAC system efficiency. My doctoral studies were jointly supervised by [Prof. WANG Zhe](https://walterzwang.github.io/) and [Prof. CHEN Guanghao](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=guanghao-chen-ceghchen).
+* Prior to joining HKUST, I completed my Master’s degree at Shanghai Jiao Tong University, under the supervision of [Dr. TIAN Jie](https://me.sjtu.edu.cn/teacher_directory3/tianjie.html), [Prof. WU Yadong](https://me.sjtu.edu.cn/teacher_directory1/wuyadong.html) and [Prof. OUYANG Hua](https://me.sjtu.edu.cn/teacher_directory2/ouyanghua.html).
 
 

@@ -17,7 +17,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. **Wu, S.**, Yang, P., Li, D., Chen, G., & Wang, Z.\* (2025). Towards predictive maintenance: A performance evaluation framework for cooling towers in HVAC systems. *Building and Environment*, in press, 113443.
+1. **Wu, S.**, Yang, P., Li, D., Chen, G., & Wang, Z.\* (2025). Towards predictive maintenance: A performance evaluation framework for cooling towers in HVAC systems. *Building and Environment*, 284, 113443.
 [https://doi.org/10.1016/j.buildenv.2025.113443](https://doi.org/10.1016/j.buildenv.2025.113443)
 3. **Wu, S.**, Zheng, W., Wang, Z.\*, Chen, G.\*, Yang, P., Yue, S., ... Wu, Y. (2025). AlphaDataCenterCooling: A virtual testbed for evaluating operational strategies in data center cooling plants. *Applied Energy*, 380, 125100. [https://doi.org/10.1016/j.apenergy.2024.125100](https://doi.org/10.1016/j.apenergy.2024.125100)
 4. **Wu, S.**, Yang, P., Chen, G., & Wang, Z.\* (2025). Evaluating seasonal chiller performance using operational data. *Applied Energy*, 377, 124377. [https://doi.org/10.1016/j.apenergy.2024.124377](https://doi.org/10.1016/j.apenergy.2024.124377)

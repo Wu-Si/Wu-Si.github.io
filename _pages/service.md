@@ -7,7 +7,6 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-
 ## Journal Reviewer
 1. Energy and Buildings
 2. Building Simulation

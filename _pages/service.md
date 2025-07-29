@@ -8,10 +8,10 @@ redirect_from:
   - "/nmp.html"
 ---
 
-<!--Journal Reviewer
-======
-1. Scitific Reports
-2. Science China - Physics Mechanics & Astronomy
+## Journal Reviewer
+1. Energy and Buildings
+2. Building Simulation
 
-Heading 2
-====== -->
+## Teaching Assistant 
+1. Fundamental of Green Buildings (HKUST, 2023)
+2. Energy System Modelling for Buildings and Cities (HKUST, 2023)

@@ -48,16 +48,4 @@ This page provides a concise overview of the main sections of this website.
   </li>
 </ul>
 
-## Additional Links
-
-<ul>
-  <li>
-    <a href="{{ base_path }}/sitemap.xml"><strong>XML Sitemap</strong></a><br>
-    Machine-readable sitemap for search engines.
-  </li>
-
-  <li>
-    <a href="{{ base_path }}/feed.xml"><strong>Feed</strong></a><br>
-    Atom feed for site updates.
-  </li>
 </ul>

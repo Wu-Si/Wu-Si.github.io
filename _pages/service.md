@@ -16,4 +16,4 @@ redirect_from:
 2. Energy System Modelling for Buildings and Cities (HKUST, 2023)
 
 ## Organizing Committee
-1. [The International Conference of Building and Simulation (BAS 2026)](bas2026.org)
+1. [The International Conference of Building and Simulation (BAS 2026)](https://bas2026.org/)

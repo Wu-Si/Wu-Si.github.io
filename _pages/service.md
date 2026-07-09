@@ -14,3 +14,6 @@ redirect_from:
 ## Teaching Assistant 
 1. Fundamental of Green Buildings (HKUST, 2023)
 2. Energy System Modelling for Buildings and Cities (HKUST, 2023)
+
+## Organizing Committee
+1. The International Conference of Building and Simulation (BAS 2026)

@@ -47,5 +47,3 @@ This page provides a concise overview of the main sections of this website.
     Curriculum vitae and academic profile.
   </li>
 </ul>
-
-</ul>

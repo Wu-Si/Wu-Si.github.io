@@ -7,31 +7,57 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+This page provides a concise overview of the main sections of this website.
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+## Main Pages
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>
+  <li>
+    <a href="{{ base_path }}/"><strong>About me</strong></a><br>
+    Brief academic profile, current position, education, and research background.
+  </li>
 
-{% capture written_label %}'None'{% endcapture %}
+  <li>
+    <a href="{{ base_path }}/publications/"><strong>Publications</strong></a><br>
+    Journal papers, conference papers, and selected research outputs.
+  </li>
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+  <li>
+    <a href="{{ base_path }}/talks/"><strong>Talks</strong></a><br>
+    Academic talks, conference presentations, and invited presentations.
+  </li>
+
+  <li>
+    <a href="{{ base_path }}/service/"><strong>Service</strong></a><br>
+    Academic service, reviewing activities, and professional contributions.
+  </li>
+
+  <li>
+    <a href="{{ base_path }}/teaching/"><strong>Teaching</strong></a><br>
+    Teaching experience, tutorials, and student supervision-related activities.
+  </li>
+
+  <li>
+    <a href="{{ base_path }}/year-archive/"><strong>Blog Posts</strong></a><br>
+    Notes, updates, and selected posts.
+  </li>
+
+  <li>
+    <a href="{{ base_path }}/cv/"><strong>CV</strong></a><br>
+    Curriculum vitae and academic profile.
+  </li>
+</ul>
+
+## Additional Links
+
+<ul>
+  <li>
+    <a href="{{ base_path }}/sitemap.xml"><strong>XML Sitemap</strong></a><br>
+    Machine-readable sitemap for search engines.
+  </li>
+
+  <li>
+    <a href="{{ base_path }}/feed.xml"><strong>Feed</strong></a><br>
+    Atom feed for site updates.
+  </li>
+</ul>
